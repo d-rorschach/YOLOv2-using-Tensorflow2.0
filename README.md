@@ -1,5 +1,5 @@
 # YOLOv2-using-Tensorflow2.0
-# real time object detection project using Yolov2
+# real time object detection project using Yolov2 algorithm
 Code is written in Python3. The model has been trained on PASCAL VOC 2012 dataset.
 preprocessing0.py file contains image augmentation and parsing functions.
 main0.py do parsing and augmentation by importing preprocessing0 and save them in .pickle file. Therefore, you need to run main0 code only for once.
